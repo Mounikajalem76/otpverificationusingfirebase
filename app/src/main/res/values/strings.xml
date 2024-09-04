@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OtpUSingFirebase</string>
+    <string name="we_will_send_to_you_an_one_time_password_on_this_mobile_number">We will send to you an one time password on this Mobile Number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="otp_verification">Otp Verification</string>
+    <string name="_91">+91-</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="todo">TODO</string>
+</resources>
